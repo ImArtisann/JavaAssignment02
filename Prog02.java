@@ -27,10 +27,10 @@ public class Prog02{
 
 		File file = new File("regNums.txt");
 		PrintWriter outputFile = new PrintWriter(file);
-   	File inFile = new File("gaussNums.txt");
-   	PrintWriter outFile = new PrintWriter(inFile);
-   	File barFile = new File("barChartFile.txt");
-   	PrintWriter barOut = new PrintWriter(barFile);
+   		File inFile = new File("gaussNums.txt");
+   		PrintWriter outFile = new PrintWriter(inFile);
+   		File barFile = new File("barChartFile.txt");
+   		PrintWriter barOut = new PrintWriter(barFile);
 
 
 		System.out.print("How many random numbers (0...100) should i generate: ");
