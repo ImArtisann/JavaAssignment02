@@ -112,7 +112,7 @@ public class Prog02{
    		barOut.close();
    		System.out.println();
    		System.out.println();
-		  System.out.println("Measures for the normally distributed integers in file, gaussNums.txt:");
+		System.out.println("Measures for the normally distributed integers in file, gaussNums.txt:");
    		System.out.println("Min: " + gaussMin);
    		System.out.println("Max: " + gaussMax);
    		System.out.println("Range: " + gRange);
